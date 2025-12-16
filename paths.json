@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-started-site/:/",
-    "/content/universal-editor-started-site/configuration:/.helix/config.json",
-    "/content/universal-editor-started-site/metadata:/metadata.json"
+    "/content/aula-aem/:/",
+    "/content/aula-aem/configuration:/.helix/config.json",
+    "/content/aula-aem/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-started-site/"
+    "/content/aula-aem/"
   ]
 }
