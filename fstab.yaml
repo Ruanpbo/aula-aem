@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p136102-e1712855.adobeaemcloud.com/ui#/aem/sites.html/content/universal-editor-getting-startedd-site"
+    url: "https://author-p136102-e1712855.adobeaemcloud.com/ui#/aem/sites.html/content/aula-aem"
     type: "markup"
     suffix: ".html"
